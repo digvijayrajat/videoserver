@@ -1,0 +1,1 @@
+java $JAVA_OPTS -jar target/rest-service-0.0.1-SNAPSHOT-plain.jar --server.port=$PORT $JAR_OPTS
